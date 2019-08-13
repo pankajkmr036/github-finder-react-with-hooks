@@ -1,3 +1,6 @@
+A React app to search Github users.
+App is made using hooks and context API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
